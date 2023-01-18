@@ -6,14 +6,14 @@ EDF-scheduling implemented in Free RTOS
  
  ### tool and drivers
  
- microcontroller used is LPC2129 ( an ARM7TDMI-S based microcontroller)
- IDE used is Keil
+ microcontroller used is LPC2129 ( an ARM7TDMI-S based microcontroller)\
+ IDE used is Keil\
  this porject is written in c programming language and uses URAT and GPIO drivers which are not included
  
  ### Aim of the project 
  
- Calculation of The CPU Load
- Calculation of Rate-Monotonic Utilization of the application
+ Calculation of The CPU Load\
+ Calculation of Rate-Monotonic Utilization of the application\
  Time Demand Analysis
  
  ### file description 
